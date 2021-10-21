@@ -1,3 +1,2 @@
-# Checklist
-Did homework about Captain_Rainbow:
-https://makeschool.org/mediabook/oa/tutorials/captain-rainbow-s-color-checklist/installation/
+# Captain-Rainbow
+A Captain Rainbow game that can add, read, delete, update, and markdown the item list that is built within the program, Python for the ACS 1100, 'Introduction to Programming', class.
